@@ -1,0 +1,26 @@
+.wrapper {
+    width: 100%;
+    background: #0958d9;
+    border-radius: 60px;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.chat {
+    width: 100%;
+    border: 2px solid black;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+.game {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-gap: 30px;
+}
+
+

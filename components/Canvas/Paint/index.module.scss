@@ -1,0 +1,16 @@
+.root {
+    display: flex;
+    width: calc(100% - 30px);
+    height: 100%;
+    background: white;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-left: 40px;
+    position: relative
+}
+
+.clear {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,14 @@
+.root {
+    display: flex;
+    width: 95px;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 15px;
+    height: 15px;
+    display: block;
+    padding: 1px;
+    cursor: pointer;
+    border: solid 1px #fff;
+}
